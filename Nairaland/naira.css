@@ -11,20 +11,63 @@ header{
     border: 1px solid rgb(179, 173, 173);
     border-radius: 20px;
     background-color: whitesmoke;
-    width: 70em;
+    width: 60em;
     margin: auto;
+    padding: 5px;
+    text-align: center;
 }
 
 #input{
-    border: 2px solid black;
-    width: 71vh;
-    
-}
-#input2{
+    border-radius: 12px;
     width: 70vh;
-    border-radius: 7px;
+
 }
+
 #search{
-    border-radius: 15px;
+    border-radius: 14px;
     padding: 5px;
+    width: 10vh;
+    height: 4vh;
+}
+
+#second{
+    border: 1px solid black;
+    width: 60em;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: whitesmoke;
+
+}
+
+#third{
+    display: flex;
+    /* border: 1px solid black; */
+    margin: auto;
+    padding: 10px;
+    margin-top: 10px;
+    width: 57em;
+}
+
+#third div{
+    border: 1px solid black;
+    width: 100vh;
+    height: 15vh;
+    margin-right: 20px;
+    border-radius: 20px;
+    
+
+}
+
+#fourth{
+    border: 1px solid black;
+    width: 60em;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: whitesmoke;
 }

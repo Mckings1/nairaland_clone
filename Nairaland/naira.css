@@ -1,6 +1,30 @@
+body{
+    
+}
+
+header{
+    display: flex;
+}
+
 
 #header{
     border: 1px solid rgb(179, 173, 173);
     border-radius: 20px;
     background-color: whitesmoke;
+    width: 70em;
+    margin: auto;
+}
+
+#input{
+    border: 2px solid black;
+    width: 71vh;
+    
+}
+#input2{
+    width: 70vh;
+    border-radius: 7px;
+}
+#search{
+    border-radius: 15px;
+    padding: 5px;
 }
